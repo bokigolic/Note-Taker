@@ -10,7 +10,7 @@ data from a JSON file.
 
 ## Deployed Application :
 
-* https://bokigolic.github.io/Note-Taker/
+* https://github.com/bokigolic/note-taker
 
 
 
